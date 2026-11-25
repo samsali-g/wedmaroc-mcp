@@ -1,0 +1,35 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.samsali-g/wedmaroc",
+  "title": "WedMaroc — Moroccan Wedding & Mahr Budget Planner",
+  "description": "2026 Moroccan wedding budget estimator, city cost multipliers, vendor prices, and planning tools.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.wedmaroc.com",
+  "icons": [
+    {
+      "src": "https://www.wedmaroc.com/icon-512x512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://www.wedmaroc.com/icon-192x192.png",
+      "mimeType": "image/png",
+      "sizes": ["192x192"]
+    },
+    {
+      "src": "https://www.wedmaroc.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/samsali-g/wedmaroc-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.wedmaroc.com/mcp"
+    }
+  ]
+}
