@@ -1,5 +1,8 @@
 # WedMaroc MCP Server
 
+[![mcptry](https://mcptry.com/badge/io.github.samsali-g/wedmaroc)](https://mcptry.com/servers/io.github.samsali-g/wedmaroc)
+[![WedMaroc MCP connector](https://glama.ai/mcp/connectors/com.wedmaroc/wed-maroc/badges/score.svg)](https://glama.ai/mcp/connectors/com.wedmaroc/wed-maroc)
+
 Remote Streamable HTTP MCP server for **[WedMaroc](https://www.wedmaroc.com)** — the free Moroccan wedding budget calculator, vendor benchmark database, and trilingual (Arabic, French, English) wedding planning suite.
 
 ## Remote Endpoint
